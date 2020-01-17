@@ -6,4 +6,4 @@ google-auth==1.2.1
 google-auth-oauthlib==0.2.0
 google-auth-httplib2==0.0.3
 pycrypto==2.6.1
-requests==2.18.4
+requests==2.20.0
